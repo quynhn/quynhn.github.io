@@ -22,10 +22,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://james.apache.org" # the base hostname & protocol for your site
 twitter_username: AwesomePaaS
-github_username:  quynhn
+github_username:  linagora
 
 # Build settings
-name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 theme: minima
 
